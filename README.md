@@ -1,4 +1,3 @@
-# Clinical Trial Navigator  
 ## AI-Assisted Trial Matching
 
 **Clinical Trial Navigator** uses advanced AI and Apple HealthKit integration to help you find clinical trials that match your unique health profile. Whether you’re managing a chronic condition, exploring treatment options, or just curious about research opportunities, our app simplifies the search and brings tailored, up-to-date clinical trial options directly to you.
